@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "race_id": "04e10dd0-9eda-4046-86f1-c0373ec97cb7",
+      "race_name": "Quiniela/Exacta/Trifecta/Straight Bet Siguenos En Facebook.Com/Canodromocaliente",
+      "race_number": 6,
+      "meeting_id": "ccfb69f7-9411-4909-b2fa-a58abce36733",
+      "meeting_name": "Caliente",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": {
+        "seconds": 1630292280
+      }
+    },
+    {
+      "race_id": "320b069a-6c1f-484f-b672-cbacbec6a266",
+      "race_name": "Wild Grains Bakery (3-6 Wins) Ht2",
+      "race_number": 8,
+      "meeting_id": "9ea0687c-d920-49c3-a631-6e68bb072f26",
+      "meeting_name": "Healesville",
+      "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+      "advertised_start": {
+        "seconds": 1630292940
+      }
+    },
+    {
+      "race_id": "4151a6c1-37ba-441e-861f-371b95602965",
+      "race_name": "The Tab App Maiden Pace",
+      "race_number": 1,
+      "meeting_id": "fae9b035-c4d1-4004-8b99-f65785fbd550",
+      "meeting_name": "Newcastle",
+      "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+      "advertised_start": {
+        "seconds": 1630293120
+      }
+    },
+    {
+      "race_id": "1a7a654a-f439-4c03-ae22-0013ed7fcacb",
+      "race_name": "Los Alamitos Quarter Horse Allowance",
+      "race_number": 3,
+      "meeting_id": "630a9859-c855-43c4-8672-6c9f773adb10",
+      "meeting_name": "Los Alamitos",
+      "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+      "advertised_start": {
+        "seconds": 1630293360
+      }
+    }
+  ]
+}
