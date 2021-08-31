@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-After cloning this repo, please go into the directory
+After cloning this repo, before proceeding to anything else, please go into the directory
 
 ```cd entain-tech-challenge-matheus```
 
