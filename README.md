@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation
+
+After cloning this repo, please go into the directory
+
+```cd my-app-typescript```
+
+And run the installation
+
+```npm install```
+
 ## Available Scripts
 
 In the project directory, you can run:
