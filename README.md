@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After cloning this repo, please go into the directory
 
-```cd my-app-typescript```
+```cd entain-tech-challenge-matheus```
 
 And run the installation
 
